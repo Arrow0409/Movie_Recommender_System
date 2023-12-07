@@ -21,7 +21,7 @@ Flask Backend:
 Developed a Flask backend to handle communication between the frontend and recommendation model.
 Deployment on Heroku:
 
-Deployed the recommendation system on Heroku, ensuring accessibility to users.
+Deployed the recommendation system on Render, ensuring accessibility to users.
 User Interface Enhancement:
 
 Implemented features in Streamlit for dynamic user interactions, enhancing the overall user experience.
