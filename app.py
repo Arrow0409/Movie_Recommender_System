@@ -51,7 +51,7 @@ def recommend(movie):
     return recommended_movies, recommended_posters, recommended_genres, recommended_overviews, recommended_productions
 
 # Load saved data
-mmovies_url = "https://drive.google.com/uc?id=1T5Nfi3hClK5QzGr8IbRCubIgPD0wot_Z"
+movies_url = "https://drive.google.com/uc?id=1T5Nfi3hClK5QzGr8IbRCubIgPD0wot_Z"
 similarity_url = "https://drive.google.com/uc?id=1bShhUHlCWzrm0qEIPkQ62xK0c0Dhpc8V"
 
 @st.cache_data  # Cache the download to prevent repeated downloads
